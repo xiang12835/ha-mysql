@@ -1,2 +1,2 @@
-# HTMLAndCSSLearn
-HTML and CSS learning
+# ha-mysql
+High Availability MySQL, Spring Boot
